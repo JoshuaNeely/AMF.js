@@ -1,1 +1,1 @@
-declare module 'amfjs';
+declare module '@joshuaneely/amfjs';
