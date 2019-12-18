@@ -4,17 +4,10 @@
   "description": "A simple AMF (ActionScript Message Format) library for Node.js",
   "main": "lib/amf-js.js",
   "directories": {
-    "test": "test"
   },
   "devDependencies": {
-    "mocha": "^2.2.1",
-    "grunt-contrib-coffee": "^0.13.0",
-    "grunt-mocha-test": "^0.12.7",
-    "chai": "^2.1.1",
-    "grunt": "^0.4.5"
   },
   "scripts": {
-    "test": "grunt"
   },
   "repository": {
     "type": "git",
