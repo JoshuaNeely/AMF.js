@@ -1,12 +1,15 @@
 {
   "name": "@joshuaneely/amfjs",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "A simple AMF (ActionScript Message Format) library for Node.js",
   "main": "lib/amf-js.js",
   "types": "lib/amf-js.d.ts",
   "directories": {
   },
   "devDependencies": {
+  },
+  "dependencies": {
+    "buffer": "^5.4.3"
   },
   "scripts": {
   },
